@@ -1,11 +1,24 @@
-# Sample Snack app
+# 💳 YOLO Pay - Digital Card App
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+Yolo Pay is a sleek, modern React Native application that simulates a digital debit card experience with interactive UI elements, freeze/unfreeze functionality, and a connected backend for transaction processing.
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+## 🚀 Features
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+- 🎨 Beautiful animated UI with custom fonts and gradients
+- 🧊 Freeze/Unfreeze your digital card with animation and backend sync
+- 💸 Payment functionality with backend integration
+- 📦 Uses AsyncStorage to persist card state (optional)
+- 📱 Smooth transitions and responsive design
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+## 📂 Project Structure
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+
+## 🛠️ Tech Stack
+
+- **React Native (Expo)**
+- **Animated API**
+- **@expo/vector-icons**
+- **@expo-google-fonts/zain**
+- **AsyncStorage (Optional)**
+- **Backend:** [Yolo Backend (Node.js/Express)](https://github.com/Praborkar/yolo-backend)
+
